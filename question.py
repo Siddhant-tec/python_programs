@@ -1,0 +1,6 @@
+inp = int(input())
+array = input().split()
+print(type(array))
+print(array)
+array.reverse()
+print(''.join(array))
